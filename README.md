@@ -37,4 +37,3 @@
    <img align="right" src="https://i.gifer.com/1Gpd.gif" alt="Kawe-gif" width="70px">
 </div>
 
-![Snake animation] (https://github.com/kawebxsz/kawebxsz/blob/output/github-contribution-grid-snake.svg)
