@@ -6,7 +6,7 @@ organizacionais. Sou flexível e estou disposto a explorar diferentes áreas.</p
 <div>
   <a href="https://beacons.ai/kawebxsz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawebxsz&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawebxsz&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawebxsz&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
