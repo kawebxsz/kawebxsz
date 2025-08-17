@@ -1,7 +1,6 @@
 ## Olá, meu nome é Kawe 👋
 <p>Busco atuar na área de tecnologia, contribuindo para o desenvolvimento e 
-implementação de soluções inovadoras que impulsionem resultados 
-organizacionais. Sou flexível e estou disposto a explorar diferentes áreas.</p>
+implementação de soluções inovadoras. Sou flexível e estou disposto a explorar diferentes áreas.</p>
 
 <div>
   <a href="https://beacons.ai/kawebxsz">
