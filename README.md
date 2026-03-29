@@ -2,11 +2,11 @@
 <p>Busco atuar na área de tecnologia, contribuindo para o desenvolvimento e 
 implementação de soluções inovadoras. Sou flexível e estou disposto a explorar diferentes áreas.</p>
 
-/<div>
+<div>
   <a href="https://beacons.ai/kawebxsz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawebxsz&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawebxsz&layout=compact&langs_count=16&theme=dracula"/>
-/</div>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kawe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
