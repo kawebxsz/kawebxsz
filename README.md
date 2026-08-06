@@ -1,7 +1,6 @@
 ## Hi, my name is Kawe 👋
 <p>I'm a Systems Analysis and Development student from Brazil 🇧🇷s.</p>
 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Kawe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kawe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
