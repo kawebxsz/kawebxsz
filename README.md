@@ -1,6 +1,5 @@
-## Olá, meu nome é Kawe 👋
-<p>Busco atuar na área de tecnologia, contribuindo para o desenvolvimento e 
-implementação de soluções inovadoras. Sou flexível e estou disposto a explorar diferentes áreas.</p>
+## Hi, my name is Kawe 👋
+<p>I'm a Systems Analysis and Development student from Brazil 🇧🇷s.</p>
 
 <div>
   <a href="https://beacons.ai/kawebxsz">
