@@ -44,6 +44,8 @@
 
 </div>
 
+<div>
+
 ## About Me
 
 const Kawe = {
@@ -88,4 +90,6 @@ const Kawe = {
   "Building skills, projects and a career in technology 🚀"
 
 }
+
+</div>
 
