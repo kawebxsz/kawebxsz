@@ -99,7 +99,15 @@ const Kaue = {
 ---
 
 
-<img src="https://komarev.com/ghpvc/?username=sophiahonopato&style=for-the-badge&color=8A2BE2"/>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kawebxsz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawebxsz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 
 
