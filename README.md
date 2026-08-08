@@ -99,13 +99,13 @@ const Kaue = {
 ---
 
 
-## 📊 GitHub Analytics
+## 
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kawebxsz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawebxsz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=kawebxsz&theme=dark&hide_border=true&background=000000&ring=6d28d9&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c084fc&sideLabels=ffffff&dates=9ca3af" />
 
 </div>
 
