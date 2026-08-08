@@ -97,6 +97,14 @@ const Kaue = {
 ```
 
 ---
+
+
+<img src="https://komarev.com/ghpvc/?username=sophiahonopato&style=for-the-badge&color=8A2BE2"/>
+
+
+
+
+
 ##
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
