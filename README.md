@@ -51,7 +51,7 @@
 ```javascript
 
 
-const Kawe = {
+const Kaue = {
 
   name: "Kauê Ribeiro",
 
