@@ -46,50 +46,50 @@
 
 <div>
 
-## About Me
+## 👩‍💻 About Me
 
-const Kawe = {
+```javascript
+const Sophia = {
 
-  name: "Kauê Ribeiro",
+ name: "Sophia Honorato",
 
-  role: "Systems Analysis and Development Student",
+ role: "Full Stack Developer",
 
-  location: "Brasília, Brazil 🇧🇷",
+ location: "São Paulo, Brazil 🇧🇷",
 
-  focus: [
-    "Software Development",
-    "Web Development",
-    "Salesforce"
-  ],
-
-  stack: {
+ stack: {
     frontend: [
+      "React",
+      "JavaScript",
+      "TypeScript",
       "HTML",
-      "CSS",
-      "JavaScript"
+      "CSS"
     ],
 
-    programming: [
-      "Python",
-      "Java"
+    backend: [
+      "Java",
+      "Node.js",
+      "Python"
     ],
 
-    learning: [
-      "Apex",
-      "Lightning Web Components"
+    database: [
+      "MySQL",
+      "Supabase"
     ]
-  },
+ },
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code"
-  ],
+ tools: [
+   "Git",
+   "GitHub",
+   "Figma",
+   "VS Code"
+ ],
 
-  goal:
-  "Building skills, projects and a career in technology 🚀"
+ passion:
+ "Building digital experiences 🚀"
 
 }
+```
 
-</div>
+---
 
