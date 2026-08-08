@@ -38,6 +38,5 @@
   <a href="https://www.linkedin.com/in/kauê-ribeiro-67438a276" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-   <img align="right" src="https://i.gifer.com/1Gpd.gif" alt="Kawe-gif" width="70px">
 </div>
 
