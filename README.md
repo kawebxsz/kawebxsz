@@ -49,11 +49,13 @@
 ## 👩‍💻 About Me
 
 ```javascript
-const Kaue = {
 
- name: "Sophia Honorato",
 
- role: "Systems Analysis and Development Student",
+const Kawe = {
+
+  name: "Kauê Ribeiro",
+
+  role: "Systems Analysis and Development Student",
 
   location: "Brasília, Brazil 🇧🇷",
 
