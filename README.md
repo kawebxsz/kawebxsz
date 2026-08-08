@@ -44,3 +44,48 @@
 
 </div>
 
+## About Me
+
+const Kawe = {
+
+  name: "Kauê Ribeiro",
+
+  role: "Systems Analysis and Development Student",
+
+  location: "Brasília, Brazil 🇧🇷",
+
+  focus: [
+    "Software Development",
+    "Web Development",
+    "Salesforce"
+  ],
+
+  stack: {
+    frontend: [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+
+    programming: [
+      "Python",
+      "Java"
+    ],
+
+    learning: [
+      "Apex",
+      "Lightning Web Components"
+    ]
+  },
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code"
+  ],
+
+  goal:
+  "Building skills, projects and a career in technology 🚀"
+
+}
+
