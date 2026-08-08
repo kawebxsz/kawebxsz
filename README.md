@@ -53,7 +53,7 @@
 
 const Kaue = {
 
-  name: "Kauê Ribeiro",
+  name: "Kauê Ribeiro Soares da Costa",
 
   role: "Systems Analysis and Development Student",
 
