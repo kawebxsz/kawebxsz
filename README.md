@@ -49,45 +49,48 @@
 ## 👩‍💻 About Me
 
 ```javascript
-const Sophia = {
+const Kaue = {
 
  name: "Sophia Honorato",
 
- role: "Full Stack Developer",
+ role: "Systems Analysis and Development Student",
 
- location: "São Paulo, Brazil 🇧🇷",
+  location: "Brasília, Brazil 🇧🇷",
 
- stack: {
+  focus: [
+    "Software Development",
+    "Web Development",
+    "Salesforce"
+  ],
+
+  stack: {
     frontend: [
-      "React",
-      "JavaScript",
-      "TypeScript",
       "HTML",
-      "CSS"
+      "CSS",
+      "JavaScript"
     ],
 
-    backend: [
-      "Java",
-      "Node.js",
-      "Python"
+    programming: [
+      "Python",
+      "Java"
     ],
 
-    database: [
-      "MySQL",
-      "Supabase"
+    learning: [
+      "Apex",
+      "Lightning Web Components"
     ]
- },
+  },
 
- tools: [
-   "Git",
-   "GitHub",
-   "Figma",
-   "VS Code"
- ],
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code"
+  ],
 
- passion:
- "Building digital experiences 🚀"
+  goal:
+  "Building skills, projects and a career in technology 🚀"
 
+}
 }
 ```
 
