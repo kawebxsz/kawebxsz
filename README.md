@@ -93,7 +93,6 @@ const Kaue = {
   "Building skills, projects and a career in technology 🚀"
 
 }
-}
 ```
 
 ---
